@@ -1,4 +1,4 @@
-# 📚 Ejercicios y Materiales de [Probabilidad y Estadistica]
+# 📚 Ejercicios y Materiales de Probabilidad y Estadistica
 
 ¡Bienvenido/a a este repositorio! Aquí guardo y organizo las consigas, teoría y soluciones en hojas de cálculo correspondientes a cada clase.
 
